@@ -1,3 +1,4 @@
+
 package main
 
 import (
@@ -6,9 +7,4 @@ import (
 	"net/http"
 	"os"
 	"strings"
-	"golang"
 )
-
-func upper(ws *websocket.Conn)  {
-	
-}
