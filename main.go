@@ -7,8 +7,6 @@ import (
 	"html/template"
 	"log"
 	"net/http"
-	"os"
-	"strings"
 )
 
 func Echo(ws *websocket.Conn)  {
